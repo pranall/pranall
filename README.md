@@ -1,6 +1,5 @@
 ## Hi there 👋
 
-<!--
 **🔭 I’m currently working on:**
 Machine learning projects spanning NLP, neural networks, tree-based models, and cloud analytics.
 
@@ -13,4 +12,3 @@ Model design, data preprocessing, feature engineering, and analytical workflows.
 **📫 How to reach me:**
 [Pranal's Email](pranalvkadam@gmail.com)
 [Pranal's LinkedIn](https://www.linkedin.com/in/pranalkadam/)
--->
