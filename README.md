@@ -1,16 +1,16 @@
 ## Hi there 👋
 
 <!--
-**pranall/pranall** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**🔭 I’m currently working on:**
+Machine learning projects spanning NLP, neural networks, tree-based models, and cloud analytics.
 
-Here are some ideas to get you started:
+**🌱 I’m currently learning:**
+Advanced ML systems, deployment workflows and German.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+**💬 Ask me about:**
+Model design, data preprocessing, feature engineering, and analytical workflows.
+
+**📫 How to reach me:**
+[Pranal's Email](pranalvkadam@gmail.com)
+[Pranal's LinkedIn](https://www.linkedin.com/in/pranalkadam/)
 -->
