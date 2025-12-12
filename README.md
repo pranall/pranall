@@ -10,5 +10,5 @@ Advanced ML systems, deployment workflows and German.
 Model design, data preprocessing, feature engineering, and analytical workflows.
 
 **📫 How to reach me:**
-[Pranal's Email](pranalvkadam@gmail.com)
+Email: pranalvkadam@gmail.com
 [Pranal's LinkedIn](https://www.linkedin.com/in/pranalkadam/)
