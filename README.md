@@ -10,7 +10,7 @@ Advanced ML systems, deployment workflows and Mandarin. Call me 浦澜 (Pǔ Lán
 Model design, data preprocessing, feature engineering, and analytical workflows.
 
 **📫 How to reach me:**
-Email: pranalvkadam@gmail.com
+Email: pranalvkadam@gmail.com or
 [Pranal's LinkedIn](https://www.linkedin.com/in/pranalkadam/)
 
 ![Distinguised Scholar](https://github.com/user-attachments/assets/6287bf8e-ff9e-4f2a-833a-15837dda34e1)
