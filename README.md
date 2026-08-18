@@ -4,7 +4,7 @@
 Machine learning projects spanning NLP, neural networks, tree-based models, and cloud analytics.
 
 **🌱 I’m currently learning:**
-Advanced ML systems, deployment workflows and German.
+Advanced ML systems, deployment workflows and Mandarin. Call me 浦澜 (Pǔ Lán).
 
 **💬 Ask me about:**
 Model design, data preprocessing, feature engineering, and analytical workflows.
